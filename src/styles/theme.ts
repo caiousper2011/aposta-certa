@@ -1,5 +1,5 @@
 import { mauve, purple, red } from '@radix-ui/colors';
-import { createStitches, createTheme } from '@stitches/react';
+import { createStitches } from '@stitches/react';
 
 export const { styled, css, globalCss } = createStitches({
   theme: {
